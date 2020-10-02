@@ -1,0 +1,72 @@
+    1  dir
+    2  pwd
+    3  ls
+    4  ls -lrt
+    5  who am i
+    6  cd ..
+    7  ls
+    8  git --version
+    9  git --version
+   10  git master
+   11  git --master
+   12  git status
+   13  git tree
+   14  git push
+   15  cls
+   16  clear
+   17  git clone
+   18  git --version
+   19  create folder
+   20  new folder
+   21  mkdir git
+   22  ls
+   23  rmdir git
+   24  ls
+   25  git status
+   26  git init
+   27  dir
+   28  git status
+   29  git config --global user.name 'M auricio Romero'
+   30  git config --global user.email 'mauricioromeroca@hotmail.com'
+   31  git status
+   32  dir
+   33  git remote
+   34  git remote add origin https://github.com/mromeroca2020/myappsample.git
+   35  git remote
+   36  git push -u origin master
+   37  git push -u origin master
+   38  git push -u origin master
+   39  touch README.md
+   40  git add.
+   41  git add .
+   42  git commit -m 'Added Readme'
+   43  git push
+   44  git pull
+   45  clear
+   46  history
+   47  history > git history commands
+   48  history > git history commands.txt
+   49  history -60 > git history commands.txt
+   50  history 40 > git history commands.txt
+   51  history/40 > git history commands.txt
+   52  history :40 > git history commands.txt
+   53  man history
+   54  help history
+   55  history -w > githistory.txt
+   56  type githistory.txt
+   57  dir
+   58  more githistory.txt
+   59  edit githistory.txt
+   60  ls
+   61  ls -lrt
+   62  git push
+   63  git status
+   64  commit add .
+   65  git commit add .
+   66  git commit add.
+   67  git add.
+   68  git add .
+   69  git status
+   70  git push
+   71  history
+   72  history > history.txt
